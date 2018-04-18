@@ -35,4 +35,4 @@ function accessElementInArray(array, ind){
 function removeElementFromBeginningOfArray(array){
   return array.slice(1);
   //return newarr4;
-}
+}*/
