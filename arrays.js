@@ -31,7 +31,7 @@ function accessElementInArray(array, ind){
 function destructivelyRemoveElementFromBeginningOfArray(candy){
   candy.shift();
   return candy;
-
+}
 function removeElementFromBeginningOfArray(array){
   return array.slice(1);
   //return newarr4;
